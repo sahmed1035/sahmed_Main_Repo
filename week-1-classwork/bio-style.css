@@ -1,0 +1,141 @@
+/* bio style*/
+
+.container {width: 1024px;
+    margin: 0 auto;
+}
+
+#main-bio {
+    float: left;
+    width: 70%;  
+}
+
+
+#contact-info{
+    float: left;
+    width: 30%;
+    height: 20px;
+    font-style: #d21034;
+}
+
+#bio-image{
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;  
+}
+
+body {background-color: #efeee7;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font: #333333;
+    margin: 0;
+    padding:0;
+}
+
+
+header {
+    background: #d21034;
+    font-size: 28px;
+  }
+  
+  h1 {
+    padding: 20px 0;
+    margin: 0;
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #eee;
+    text-align: center;
+    background: #333;
+  }
+  
+  h2 {
+    font-size: 24px;
+  }
+  
+  a {
+    color: #d21034;
+  }
+  
+
+
+
+/**
+ * Float Layout Activity
+ **/
+ /*
+ * {
+    box-sizing: border-box;
+    text-align: center;
+  }
+  
+  body {
+    font-size: 20px;
+    background-color:whitesmoke;
+  }
+  
+  header {
+    padding: 20px;
+    margin-bottom: 20px;
+    color: #333;
+    background: blue;
+  }
+  
+  section {
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: red;
+  }
+  
+  #left {
+    background-color: #666;
+    color: white;
+    width: 33%;
+    float: left;
+  }
+  
+  #middle {
+    background-color: #888;
+    color: white;
+    width: 33%;
+    float: left;
+  
+  }
+  
+  #right {
+    background-color: #666;
+    color: white;
+    width: 33%;
+    float: left;
+  
+  }
+  
+  #full {
+    clear: both;
+    background-color: #eee;
+    overflow: auto;
+    width: 100%;
+  
+  }
+  
+  #division {
+    background-color: #6ea3da;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  
+  aside {
+    background-color: #fff;
+    width: 33%;
+    height: 200px;
+    border: 1px solid #eee;
+    padding: 20px;
+    float: left;
+    margin-left: 20px;
+  
+  }
+  
+  footer {
+    clear: both;
+    padding: 20px;
+    background-color: #ccc;
+  }
+  */
+  
